@@ -1,0 +1,4 @@
+:root {
+    --body_bg: #000 !important}
+body {
+    background-image: none}
